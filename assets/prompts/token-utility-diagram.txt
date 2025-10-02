@@ -1,0 +1,1 @@
+Prompt: Draw a circular flow illustrating $THRL utility: Access (gated features), Eligibility (airdrops/allowlists — no guarantees), Governance Signals (non-binding early phase), Integrations (marketplaces/partners). Use Solana visual cues, include verification icons pointing to GitHub Pages as the source of truth.

@@ -1,0 +1,1 @@
+Prompt: Create a clean, modern diagram showing a roller coaster track morphing into data flows across components labeled: $THRL (Phase 1 currency), NFT Launch Platform (creator workflows), Automation Rails (campaigns, dashboards), and Governance (signals, disclosures). Emphasize verification checkpoints (GitHub Pages) and Solana context.

@@ -1,0 +1,8 @@
+title: SOLer Coaster Docs
+description: Official docs for SOLer Coaster and Thrill Token ($THRL) — Solana-based, pump.fun fair launch, Phase 1 currency, and NFT creator platform. Tagline: Turning live hype into tokenized value with AI.
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+markdown: kramdown
+kramdown:
+  input: GFM
