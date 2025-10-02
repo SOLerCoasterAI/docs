@@ -1,0 +1,1 @@
+Prompt: Provide a concise brand sheet: primary logo (dark/light), mark-only icon, monochrome versions, safe area guidance, minimum sizes, and background usage rules. Include a section on what NOT to do (no stretching, color changes, or drop-shadows).
